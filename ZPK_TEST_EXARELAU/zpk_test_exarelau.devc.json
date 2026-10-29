@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "TEST ONLY. PLEASE DO NOT TRANSPORT.",
+    "originalLanguage": "en"
+  },
+  "generalInformation": {
+    "type": "development",
+    "applicationComponent": "",
+    "softwareComponent": "HOME",
+    "transportLayer": "ZDEV",
+    "supportsRecordChanges": true
+  }
+}

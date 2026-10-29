@@ -1,0 +1,13 @@
+{
+  "formatVersion": "ADT-2",
+  "header": {
+    "description": "Display material master data from MARA as ALV",
+    "originalLanguage": "en"
+  },
+  "generalInformation": {
+    "fixPointArithmetic": true
+  },
+  "logicalDatabase": {
+    "name": "D$S"
+  }
+}
