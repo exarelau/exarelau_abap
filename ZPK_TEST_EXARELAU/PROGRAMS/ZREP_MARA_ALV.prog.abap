@@ -4,7 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zrep_mara_alv.
-
+*test
 TABLES mara.
 
 SELECT-OPTIONS s_matnr FOR mara-matnr.
