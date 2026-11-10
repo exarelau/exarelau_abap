@@ -9,6 +9,9 @@ TABLES mara.
 SELECT-OPTIONS s_matnr FOR mara-matnr.
 PARAMETERS p_max TYPE i DEFAULT 500.
 
+INITIALIZATION.
+  p_max = 500.
+  
 AT SELECTION-SCREEN.
 	IF p_max <= 0.
 		MESSAGE 'Maximum row count must be greater than zero.' TYPE 'E'.
